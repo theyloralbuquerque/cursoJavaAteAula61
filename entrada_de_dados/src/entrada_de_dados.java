@@ -15,6 +15,7 @@ public class entrada_de_dados {
 		y = sc.nextInt();
 		z = sc.nextFloat();
 		
+		//Teste
 		System.out.println("Valores digitados:");
 		System.out.println(x);
 		System.out.println(y);
