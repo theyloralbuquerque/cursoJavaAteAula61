@@ -21,6 +21,8 @@ public class entrada_de_dados {
 		System.out.println(y);
 		System.out.println(z);
 		
+		//Commitando um porjeto clonado
+		System.out.println("Test");
 		sc.close();
 	}
 
